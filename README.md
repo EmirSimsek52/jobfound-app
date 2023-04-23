@@ -1,4 +1,6 @@
 # Expo Router Example
+![reactjobimg](https://user-images.githubusercontent.com/104012238/233858728-d347c869-1f66-45ca-9af0-9649f7e0fb70.png)
+
 
 Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
 
